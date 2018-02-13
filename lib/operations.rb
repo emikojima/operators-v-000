@@ -3,6 +3,7 @@ if speed.between?(40,60)
   return true
 else
   return false
+end 
 end
 
 
